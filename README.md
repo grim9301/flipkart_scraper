@@ -1,6 +1,7 @@
 # Flipkart web scraper
 
 This is `Flipkart Product Web Scraper` build using `scrapy` module of `python`
+Scrapy is a free and open-source web-crawling framework written in Python. Originally designed for web scraping, it can also be used to extract data using APIs or as a general-purpose web crawler. It is currently maintained by Zyte formerly Scrapinghub, a web-scraping development and services company
 
 # Features
 It extracts the following:
@@ -41,7 +42,3 @@ Now you good to go ;)
 - you have to install `scrapy`
 - you have to install `pillow`
 
-## Small example in Beautiful Soup - bs4
-> It is extracting only `gaming laptop details` into a `laptop_data_.csv` file
-
-[MIT]
